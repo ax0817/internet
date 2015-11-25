@@ -1,7 +1,7 @@
 ![](https://www.google.com/logos/doodles/2015/teachers-day-2015-indonesia-5421184665518080.2-hp2x.gif)
 
 
-所有hosts文件均来自[racaljk]([hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
+所有hosts文件均来自[racaljk](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
 
 
 
