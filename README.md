@@ -1,4 +1,4 @@
-![](https://www.google.com/logos/doodles/2015/google-gameday-doodle-kickoff-5927321670254592.3-hp2x.gif)
+![](https://lh3.googleusercontent.com/G0Zivi5OqWr1HMkx-NHZDo46wEPvWLQlP7g0ZuCwlh-hD7koHWbxvfadsHkSvisq74aw9KdQV7hRIWT_tjvQYMr9Pm9Fzm66_dpDCrc=s660)
 
 
 所有hosts文件均来自[racaljk]，感谢！
