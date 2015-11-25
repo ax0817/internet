@@ -1,4 +1,4 @@
-![](https://www.google.com/logos/2010/brucelee2010-hp.jpg)
+![](https://lh3.googleusercontent.com/DlWBK-4St43VDuWsb_C4LxzsXr21PcrQ6tOtgj48lfFKdh1UyIYoxh6rqmGW9okKVnkaWKjcxbOJ_FkoOixRaDyHPbZTjPhm000xrefWmw=s660)
 
 
 所有hosts文件均来自[racaljk]，感谢！
