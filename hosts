@@ -1,4 +1,4 @@
-##
+##                                                                                                                                     
 # Copyright (c) 2014-2015, racaljk.
 #
 # This program is distributed in the hope that it will be useful,
@@ -8,14 +8,14 @@
 # Host Database
 #
 # localhost is used to configure the loopback interface
-# when the system is booting. Do not change this entry.
+# when the system is booting.  Do not change this entry.
 #
 # Last update: Mon Nov 16 13:12:35 CST 2015
 ##
 127.0.0.1	localhost
-255.255.255.255 broadcasthost
-::1 localhost
-fe80::1%lo0 localhost
+255.255.255.255	broadcasthost
+::1		localhost
+fe80::1%lo0	localhost
 
 # Modify hosts start
 
@@ -2726,7 +2726,7 @@ fe80::1%lo0 localhost
 68.232.44.121	s.gravatar.com
 192.0.80.242	lb.gravatar.com
 192.0.80.242	secure.gravatar.com
-192.0.81.250	botd2.wordpress.com
+192.0.81.250		botd2.wordpress.com
 66.155.9.238	dashboard.wordpress.com
 66.155.9.238	en.blog.wordpress.com
 66.155.9.238	en.forums.wordpress.com
@@ -2736,7 +2736,7 @@ fe80::1%lo0 localhost
 192.0.77.2	i2.wp.com
 66.155.9.238	lb.wordpress.com
 66.155.9.238	lucifr.wordpress.com
-192.0.81.250	r-login.wordpress.com
+192.0.81.250		r-login.wordpress.com
 68.232.44.119	s.stats.wordpress.com
 192.229.144.127	s.w.org
 68.232.44.111	s.wordpress.com
