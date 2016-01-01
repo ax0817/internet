@@ -1,4 +1,4 @@
-![](https://lh3.googleusercontent.com/4D4eaqyfysTgK67gBWd7MjD4gFy4mL5d75PvEHUgyAf4O-129X_p8-oA-VOz7quaUmPj-LIUTkJOSSVThR9Oa8AqHRgaydNfl2TokW2r=s660)
+![](https://www.google.com.hk/logos/doodles/2016/new-years-day-2016-5637619880820736-5146118144917504-ror.gif)
 
 
 所有hosts文件均来自[racaljk]，感谢！
