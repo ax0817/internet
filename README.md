@@ -1,4 +1,4 @@
-![](https://www.google.com/logos/doodles/2016/martin-luther-king-jr-day-2016-4899278629634048-hp2x.jpg)
+![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0oIunADI3-5BIIVynx0_r7Lq_rpjrHtHVF2X7DZxFknXqKdxndw)
 
 
 所有hosts文件均来自[racaljk]，感谢！
