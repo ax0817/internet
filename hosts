@@ -1,36 +1,17 @@
-
-@ax0817
-You don’t have any verified emails. We recommend verifying at least one email.
-Email verification helps our support team verify ownership if you lose account access and allows you to receive all the notifications you ask for.
- Watch 511
-  Unstar 2,514
-  Fork 1,725 racaljk/hosts
- Code  Issues 6  Pull requests 1  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathhosts/hosts
-16138ce  3 hours ago
-@K-Guan K-Guan Replace '64.233.162.81' with '64.233.162.82'
-15 contributors @andytimes @racaljk @K-Guan @smounives @aofall @cw881014 @Ignotus-CN @leehz @chaosshen @lautis0503 @mklnz @imcaffrey @RellyVadd @LyricTian @HengtianPan
-RawBlameHistory     3648 lines (3599 sloc)  137 KB
-##
 # Copyright (c) 2014-2016, racaljk.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY. Redistribution and use in anyway, DO
-# NOT remove these and follow comments.
-#
-# Host Database
-#
-# localhost is used to configure the loopback interface
-# when the system is booting. Do not change this entry.
-#
-# Last updated: Fri Jan 15 13:03:59 CST 2016
-##
-127.0.0.1	localhost
+# https://github.com/racaljk/hosts
+# Last updated: 2016-2-2
+
+# This work is licensed under a CC BY-NC-SA 4.0 International License.
+# https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+# Localhost (DO NOT REMOVE)
+127.0.0.1   localhost
 255.255.255.255 broadcasthost
 ::1 localhost
 fe80::1%lo0 localhost
 
-# Modify hosts start
+# Modified hosts start
 
 # Amazon AWS Start
 27.0.1.125	ap-northeast-1.console.aws.amazon.com
@@ -92,40 +73,40 @@ fe80::1%lo0 localhost
 # DuckDuckGo End
 
 # Facebook start
-173.252.88.67	mqtt.facebook.com
-173.252.88.67	video.xx.fbcdn.net
+173.252.90.37	mqtt.facebook.com
+173.252.90.37	video.xx.fbcdn.net
 77.67.4.11	fbcdn-sphotos-a-a.akamaihd.net
 77.67.4.64	fbcdn-sphotos-b-a.akamaihd.net
 77.67.4.74	fbcdn-sphotos-c-a.akamaihd.net
 77.67.4.73	fbcdn-sphotos-d-a.akamaihd.net
 77.67.4.74	fbcdn-sphotos-e-a.akamaihd.net
 77.67.4.10	fbcdn-sphotos-f-a.akamaihd.net
-173.252.88.67	fbcdn-sphotos-g-a.akamaihd.net
-173.252.88.67	fbcdn-sphotos-h-a.akamaihd.net
+173.252.90.37	fbcdn-sphotos-g-a.akamaihd.net
+173.252.90.37	fbcdn-sphotos-h-a.akamaihd.net
 2.16.162.11	fbcdn-profile-a.akamaihd.net
-173.252.88.67	scontent.xx.fbcdn.net
-173.252.88.67	scontent-a.xx.fbcdn.net
-173.252.88.67	scontent-b.xx.fbcdn.net
+173.252.90.37	scontent.xx.fbcdn.net
+173.252.90.37	scontent-a.xx.fbcdn.net
+173.252.90.37	scontent-b.xx.fbcdn.net
 23.213.58.87	s-static.ak.facebook.com
 23.213.58.87	profile.ak.facebook.com
 184.28.188.154	static.ak.facebook.com
 184.28.188.154	b.static.ak.facebook.com
-173.252.88.67	graph.facebook.com
-173.252.88.67	ssl.facebook.com
-173.252.88.67	api.facebook.com
-173.252.88.67	secure-profile.facebook.com
-173.252.88.67	secure.facebook.com
-173.252.88.67	zh-cn.facebook.com
-173.252.88.67	login.facebook.com
-173.252.88.67	m.facebook.com
-173.252.88.67	messages-facebook.com
-173.252.88.67	attachments.facebook.com
-173.252.88.67	touch.facebook.com
-173.252.88.67	facebook.com
-173.252.88.67	www.facebook.com
-173.252.88.67	apps.facebook.com
-173.252.88.67	profile.ak.fbcdn.net
-173.252.88.67	vpn.tfbnw.net
+173.252.90.37	graph.facebook.com
+173.252.90.37	ssl.facebook.com
+173.252.90.37	api.facebook.com
+173.252.90.37	secure-profile.facebook.com
+173.252.90.37	secure.facebook.com
+173.252.90.37	zh-cn.facebook.com
+173.252.90.37	login.facebook.com
+173.252.90.37	m.facebook.com
+173.252.90.37	messages-facebook.com
+173.252.90.37	attachments.facebook.com
+173.252.90.37	touch.facebook.com
+173.252.90.37	facebook.com
+173.252.90.37	www.facebook.com
+173.252.90.37	apps.facebook.com
+173.252.90.37	profile.ak.fbcdn.net
+173.252.90.37	vpn.tfbnw.net
 184.28.188.240	vthumb.ak.fbcdn.net
 184.28.188.152	photos-a.ak.fbcdn.net
 184.28.188.154	photos-b.ak.fbcdn.net
@@ -136,12 +117,12 @@ fe80::1%lo0 localhost
 184.28.188.171	photos-g.ak.fbcdn.net
 184.28.188.146	photos-h.ak.fbcdn.net
 184.28.188.171	creative.ak.fbcdn.net
-173.252.88.67	fbcdn.net
+173.252.90.37	fbcdn.net
 184.28.188.153	external.ak.fbcdn.net
 184.28.188.153	b.static.ak.fbcdn.net
 184.28.188.153	static.ak.fbcdn.net
-173.252.88.67	upload.facebook.com
-173.252.88.67	developers.facebook.com
+173.252.90.37	upload.facebook.com
+173.252.90.37	developers.facebook.com
 184.28.188.153	act.channel.facebook.com
 184.28.188.153	0-act.channel.facebook.com
 184.28.188.153	1-act.channel.facebook.com
@@ -150,43 +131,43 @@ fe80::1%lo0 localhost
 184.28.188.153	4-act.channel.facebook.com
 184.28.188.153	5-act.channel.facebook.com
 184.28.188.153	6-act.channel.facebook.com
-173.252.88.67	beta-chat-01-05-ash3.facebook.com
+173.252.90.37	beta-chat-01-05-ash3.facebook.com
 184.28.188.153	origincache-ai-01-05-ash3.fbcdn.net
-173.252.88.67	static.thefacebook.com
+173.252.90.37	static.thefacebook.com
 184.28.188.153	inyour-slb-01-05-ash3.facebook.com
 184.28.188.153	origincache-starfacebook-ai-01-05-ash3.facebook.com
-173.252.88.67	channel-ecmp-05-ash3.facebook.com
-173.252.88.67	channel-staging-ecmp-05-ash3.facebook.com
-173.252.88.67	channel-testing-ecmp-05-ash3.facebook.com
-173.252.88.67	0-edge-chat.facebook.com
-173.252.88.67	1-edge-chat.facebook.com
-173.252.88.67	2-edge-chat.facebook.com
-173.252.88.67	3-edge-chat.facebook.com
-173.252.88.67	4-edge-chat.facebook.com
-173.252.88.67	5-edge-chat.facebook.com
-173.252.88.67	6-edge-chat.facebook.com
-173.252.88.67	api-read.facebook.com
-173.252.88.67	attachment.fbsbx.com
-173.252.88.67	bigzipfiles.facebook.com
-173.252.88.67	check4.facebook.com
-173.252.88.67	check6.facebook.com
-173.252.88.67	code.facebook.com
-173.252.88.67	connect.facebook.com
-173.252.88.67	edge-chat.facebook.com
-173.252.88.67	pixel.facebook.com
-173.252.88.67	star.c10r.facebook.com
-173.252.88.67	star.facebook.com
-173.252.88.67	zh-tw.facebook.com
-173.252.88.67	b-api.facebook.com
-173.252.88.67	b-graph.facebook.com
-173.252.88.67	connect.facebook.net
-173.252.88.67	creative.ak.fbcdn.net
-173.252.88.67	d.facebook.com
-173.252.88.67	ent-a.xx.fbcdn.net
-173.252.88.67	ent-b.xx.fbcdn.net
-173.252.88.67	ent-c.xx.fbcdn.net
-173.252.88.67	ent-d.xx.fbcdn.net
-173.252.88.67	ent-e.xx.fbcdn.net
+173.252.90.37	channel-ecmp-05-ash3.facebook.com
+173.252.90.37	channel-staging-ecmp-05-ash3.facebook.com
+173.252.90.37	channel-testing-ecmp-05-ash3.facebook.com
+173.252.90.37	0-edge-chat.facebook.com
+173.252.90.37	1-edge-chat.facebook.com
+173.252.90.37	2-edge-chat.facebook.com
+173.252.90.37	3-edge-chat.facebook.com
+173.252.90.37	4-edge-chat.facebook.com
+173.252.90.37	5-edge-chat.facebook.com
+173.252.90.37	6-edge-chat.facebook.com
+173.252.90.37	api-read.facebook.com
+173.252.90.37	attachment.fbsbx.com
+173.252.90.37	bigzipfiles.facebook.com
+173.252.90.37	check4.facebook.com
+173.252.90.37	check6.facebook.com
+173.252.90.37	code.facebook.com
+173.252.90.37	connect.facebook.com
+173.252.90.37	edge-chat.facebook.com
+173.252.90.37	pixel.facebook.com
+173.252.90.37	star.c10r.facebook.com
+173.252.90.37	star.facebook.com
+173.252.90.37	zh-tw.facebook.com
+173.252.90.37	b-api.facebook.com
+173.252.90.37	b-graph.facebook.com
+173.252.90.37	connect.facebook.net
+173.252.90.37	creative.ak.fbcdn.net
+173.252.90.37	d.facebook.com
+173.252.90.37	ent-a.xx.fbcdn.net
+173.252.90.37	ent-b.xx.fbcdn.net
+173.252.90.37	ent-c.xx.fbcdn.net
+173.252.90.37	ent-d.xx.fbcdn.net
+173.252.90.37	ent-e.xx.fbcdn.net
 23.32.248.66	fbcdn-creative-a.akamaihd.net
 72.246.188.82	fbcdn-photos-a.akamaihd.net
 72.246.188.19	fbcdn-photos-e-a.akamaihd.net
@@ -210,21 +191,21 @@ fe80::1%lo0 localhost
 23.32.248.33	fbcdn-vthumb-a.akamaihd.net
 23.32.248.27	fbexternal-a.akamaihd.net
 58.26.185.48	fbstatic-a.akamaihd.net
-173.252.88.67	ldap.thefacebook.com
-173.252.88.67	orcart.facebook.com
-173.252.88.67	scontent-a-lax.xx.fbcdn.net
-173.252.88.67	scontent-a-sin.xx.fbcdn.net
-173.252.88.67	scontent-b-lax.xx.fbcdn.net
+173.252.90.37	ldap.thefacebook.com
+173.252.90.37	orcart.facebook.com
+173.252.90.37	scontent-a-lax.xx.fbcdn.net
+173.252.90.37	scontent-a-sin.xx.fbcdn.net
+173.252.90.37	scontent-b-lax.xx.fbcdn.net
 183.111.23.18	scontent-b-sin.xx.fbcdn.net
-173.252.88.67	scontent-c.xx.fbcdn.net
-173.252.88.67	scontent-d.xx.fbcdn.net
-173.252.88.67	scontent-e.xx.fbcdn.net
-173.252.88.67	scontent-mxp.xx.fbcdn.net
+173.252.90.37	scontent-c.xx.fbcdn.net
+173.252.90.37	scontent-d.xx.fbcdn.net
+173.252.90.37	scontent-e.xx.fbcdn.net
+173.252.90.37	scontent-mxp.xx.fbcdn.net
 23.207.122.24	s-external.ak.fbcdn.net
 23.34.45.177	s-static.ak.fbcdn.net
 118.214.29.177	s-static.facebook.com
-173.252.88.67	vupload.facebook.com
-173.252.88.67	vupload2.vvv.facebook.com
+173.252.90.37	vupload.facebook.com
+173.252.90.37	vupload2.vvv.facebook.com
 # Facebook end
 
 # Gmail web Start
@@ -242,7 +223,7 @@ fe80::1%lo0 localhost
 # Gmail web End
 
 # Google Start
-64.233.160.90	www.google.com
+64.233.162.82	www.google.com
 64.233.162.82	google.com
 64.233.162.82	gcr.io
 64.233.162.82	www.gcr.io
@@ -268,7 +249,7 @@ fe80::1%lo0 localhost
 64.233.162.82	encrypted-tbn2.google.com
 64.233.162.82	encrypted-tbn3.google.com
 64.233.162.82	fi.google.com
-64.233.160.90	goto.google.com
+64.233.162.82	goto.google.com
 64.233.162.82	gxc.google.com
 64.233.162.82	history.google.com
 64.233.162.82	investor.google.com
@@ -467,7 +448,7 @@ fe80::1%lo0 localhost
 64.233.162.82	checkout.google.com
 64.233.162.82	wallet.google.com
 64.233.162.82	www.chrome.com
-64.233.160.90	developer.chrome.com
+64.233.162.82	developer.chrome.com
 64.233.162.82	chrome.google.com
 64.233.162.82	browsersync.google.com
 64.233.162.82	toolbarqueries.google.com
@@ -486,27 +467,27 @@ fe80::1%lo0 localhost
 64.233.162.82	accounts.google.co.nz
 64.233.162.82	id.google.co.nz
 64.233.162.82	www.googlecode.com
-216.58.212.38	googlesource.com
-216.58.212.38	gerrit.googlesource.com
-216.58.212.38	chromium.googlesource.com
-216.58.212.38	kernel.googlesource.com
-216.58.212.38	gwt.googlesource.com
-216.58.212.38	code.google.com
-216.58.212.38	uploads.code.google.com
-216.58.212.38	chromium.googlecode.com
-216.58.212.38	closure-library.googlecode.com
-216.58.212.38	earth-api-samples.googlecode.com
-216.58.212.38	gmaps-samples-flash.googlecode.com
-216.58.212.38	googleappengine.googlecode.com
-216.58.212.38	google-code-feed-gadget.googlecode.com
-216.58.212.38	google-code-prettify.googlecode.com
-216.58.212.38	www.googlesource.com
-216.58.212.38	android.googlesource.com
-216.58.212.38	cloud.google.com
-216.58.212.38	developers.google.com
-216.58.212.38	cloudssh.developers.google.com
-216.58.212.38	console.developers.google.com
-216.58.212.38	source.developers.google.com
+64.233.162.82	googlesource.com
+64.233.162.82	gerrit.googlesource.com
+64.233.162.82	chromium.googlesource.com
+64.233.162.82	kernel.googlesource.com
+64.233.162.82	gwt.googlesource.com
+64.233.162.82	code.google.com
+64.233.162.82	uploads.code.google.com
+64.233.162.82	chromium.googlecode.com
+64.233.162.82	closure-library.googlecode.com
+64.233.162.82	earth-api-samples.googlecode.com
+64.233.162.82	gmaps-samples-flash.googlecode.com
+64.233.162.82	googleappengine.googlecode.com
+64.233.162.82	google-code-feed-gadget.googlecode.com
+64.233.162.82	google-code-prettify.googlecode.com
+64.233.162.82	www.googlesource.com
+64.233.162.82	android.googlesource.com
+64.233.162.82	cloud.google.com
+64.233.162.82	developers.google.com
+64.233.162.82	cloudssh.developers.google.com
+64.233.162.82	console.developers.google.com
+64.233.162.82	source.developers.google.com
 64.233.162.82	directory.google.com
 64.233.162.82	dir.google.com
 64.233.162.82	events.google.com
@@ -849,27 +830,27 @@ fe80::1%lo0 localhost
 64.233.162.82	s1.2mdn.net
 64.233.162.82	service.urchin.com
 64.233.162.82	analytics.google.com
-64.233.160.90	www.googleartproject.com
+64.233.162.82	www.googleartproject.com
 64.233.162.82	feedburner.google.com
 64.233.162.82	www.feedburner.com
 64.233.162.82	feeds.feedburner.com
 64.233.162.82	feeds2.feedburner.com
 64.233.162.82	feedproxy.google.com
 64.233.162.82	go.googlesource.com
-64.233.160.90	golang.org
-64.233.160.90	www.golang.org
-64.233.160.90	blog.golang.org
-64.233.160.90	play.golang.org
-64.233.160.90	tip.golang.org
-64.233.160.90	tour.golang.org
+64.233.162.82	golang.org
+64.233.162.82	www.golang.org
+64.233.162.82	blog.golang.org
+64.233.162.82	play.golang.org
+64.233.162.82	tip.golang.org
+64.233.162.82	tour.golang.org
 64.233.162.82	goo.gl
 64.233.162.82	g.co
 64.233.162.82	www.google.org
 64.233.162.82	blog.google.org
-64.233.160.90	panoramio.com
-64.233.160.90	www.panoramio.com
-64.233.160.90	static.panoramio.com
-64.233.160.90	blog.panoramio.com
+64.233.162.82	panoramio.com
+64.233.162.82	www.panoramio.com
+64.233.162.82	static.panoramio.com
+64.233.162.82	blog.panoramio.com
 64.233.162.82	www.recaptcha.net
 64.233.162.82	api.recaptcha.net
 64.233.162.82	api-secure.recaptcha.net
@@ -881,7 +862,7 @@ fe80::1%lo0 localhost
 64.233.162.82	www.data-vocabulary.org
 64.233.162.82	www.googleinsidesearch.com
 64.233.162.82	www.teachparentstech.org
-64.233.160.90	www.thinkwithgoogle.com
+64.233.162.82	www.thinkwithgoogle.com
 64.233.162.82	www.oneworldmanystories.com
 # 64.233.162.82	www.dartlang.org
 # 64.233.162.82	try.dartlang.org
@@ -1030,7 +1011,7 @@ fe80::1%lo0 localhost
 64.233.162.82	www.android.com
 64.233.162.82	android.com
 64.233.162.82	connectivitycheck.android.com
-216.58.212.38	developer.android.com
+64.233.162.82	developer.android.com
 64.233.162.82	source.android.com
 64.233.162.82	market.android.com
 64.233.162.82	play.google.com
@@ -2701,24 +2682,24 @@ fe80::1%lo0 localhost
 64.233.162.82	www.google.vg
 64.233.162.82	www.google.vu
 64.233.162.82	www.google.ws
-64.233.160.90	foobar.withgoogle.com
-64.233.160.90	interstellar.withgoogle.com
-64.233.160.90	edudirectory.withgoogle.com
-64.233.160.90	atmosphere.withgoogle.com
-64.233.160.90	accelerate.withgoogle.com
-64.233.160.90	insgruene.withgoogle.com
-64.233.160.90	atmospheretokyo.withgoogle.com
-64.233.160.90	connectedclassrooms.withgoogle.com
-64.233.160.90	smartypins.withgoogle.com
-64.233.160.90	streetart.withgoogle.com
-64.233.160.90	cardboard.withgoogle.com
-64.233.160.90	kickwithchrome.withgoogle.com
-64.233.160.90	candidatos.withgoogle.com
-64.233.160.90	trendstw.withgoogle.com
-64.233.160.90	spellup.withgoogle.com
-64.233.160.90	impactchallenge.withgoogle.com
+64.233.162.82	foobar.withgoogle.com
+64.233.162.82	interstellar.withgoogle.com
+64.233.162.82	edudirectory.withgoogle.com
+64.233.162.82	atmosphere.withgoogle.com
+64.233.162.82	accelerate.withgoogle.com
+64.233.162.82	insgruene.withgoogle.com
+64.233.162.82	atmospheretokyo.withgoogle.com
+64.233.162.82	connectedclassrooms.withgoogle.com
+64.233.162.82	smartypins.withgoogle.com
+64.233.162.82	streetart.withgoogle.com
+64.233.162.82	cardboard.withgoogle.com
+64.233.162.82	kickwithchrome.withgoogle.com
+64.233.162.82	candidatos.withgoogle.com
+64.233.162.82	trendstw.withgoogle.com
+64.233.162.82	spellup.withgoogle.com
+64.233.162.82	impactchallenge.withgoogle.com
 64.233.162.87	virustotalcloud.appspot.com
-64.233.160.90	eduproducts.withgoogle.com
+64.233.162.82	eduproducts.withgoogle.com
 64.233.188.129	corp.google.com
 64.233.188.129	login.corp.google.com
 64.233.188.129	uberproxy.corp.google.com
@@ -3657,4 +3638,4 @@ fe80::1%lo0 localhost
 68.232.44.251	www.w3schools.com
 # W3schools End
 
-# Modify hosts end
+# Modified hosts end
