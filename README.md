@@ -1,4 +1,4 @@
-![](http://www.koolphp.net/assets/images/blog/9/8769iDA91D7B88A5B3822.jpg)
+![](https://www.google.com/logos/doodles/2016/holi-festival-2016-4796769118453760-hp2x.gif)
 
 # 欢迎使用hosts！
 
