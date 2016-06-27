@@ -5,7 +5,7 @@
 
 # Copyright (c) 2014-2016, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2016-06-25
+# Last updated: 2016-06-27
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2456,6 +2456,7 @@ fe80::1%lo0	localhost
 220.255.2.153	chromoting-oauth.talkgadget.google.com
 220.255.2.153	chromoting-host.talkgadget.google.com
 220.255.2.153	chromoting-client.talkgadget.google.com
+220.255.2.153	remoting-pa.googleapis.com
 220.255.2.153	contacts.google.com
 220.255.2.153	youtube.com
 220.255.2.153	www.youtube.com
@@ -3698,8 +3699,8 @@ fe80::1%lo0	localhost
 #TensorFlow end
 
 # W3schools Start
-#68.232.44.251	w3schools.com
-#68.232.44.251	www.w3schools.com
+68.232.44.251	w3schools.com
+68.232.44.251	www.w3schools.com
 # W3schools End
 
 # Medium start
